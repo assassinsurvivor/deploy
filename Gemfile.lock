@@ -40,7 +40,6 @@ GEM
       tzinfo (~> 1.1)
     arel (7.1.4)
     builder (3.2.3)
-    coffee-script-source (1.8.0)
     concurrent-ruby (1.0.4)
     debug_inspector (0.0.2)
     erubis (2.7.0)
@@ -138,7 +137,6 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  coffee-script-source (= 1.8.0)
   jbuilder (~> 2.5)
   jquery-rails
   puma (~> 3.0)
